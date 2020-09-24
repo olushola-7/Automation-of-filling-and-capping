@@ -6,7 +6,8 @@ Mitsubishi PLC was used in this project. The program/source code is written usin
 BRIEF EXPLANATION OF THE PROGRAM/SOURCE CODE
 When the start button (X000) is pressed, the conveyor (Y000) starts to operate and moves empty bottle placed on it towards the direction of sensor 1 (X002) which becomes active on detecting the presence of the bottle. The conveyor stops and the valve operate for 2 seconds to supply water to the bottle. The conveyor starts again and move the filled bottle towards the direction of sensor 2 (X003) placed at the capping machine position. The sensor becomes active on detecting the filled bottle. The conveyor stops and the capping machine operates for 2 seconds to complete the capping process.
 
-The source code is written using ladder logic programming language.	
+The source code is written using ladder logic programming language. View the JPG files in this repository
+for the io assignment, flow chart etc.
 
 
 
